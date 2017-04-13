@@ -1,0 +1,18 @@
+{
+  "name": "currenpy",
+  "version": "1.0.0",
+  "description": "Currency conversion",
+  "main": "handler.py",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bennybauer",
+  "license": "MIT",
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/bennybauer/currenpy"
+  },
+  "dependencies": {
+    "serverless-python-requirements": "^2.1.1"
+  }
+}
