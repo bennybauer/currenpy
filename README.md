@@ -28,7 +28,7 @@ Response:
 
 
 ## Usage
-## Setup
+### Setup
 | **Step** | **Command** |**Description**|
 |---|-------|------|
 |  1. | `npm install -g serverless` | Install Serverless CLI  |
@@ -36,18 +36,18 @@ Response:
 |  3. | `npm install` | Installs dependencies (`serverless-python-requirements`)  |
 
 
-## Development
+### Development
 | **Step** | **Command** |**Description**|
 |---|-------|------|
 |  1. | `virtualenv convert` | Create virtual environment |
 |  2. | `pip install -r requirements.txt` | Install dependencies|
 
 
-## Deployment
+### Deployment
 
 	sls deploy
 
-# Credits
+## Credits
 * [forex-python](https://github.com/MicroPyramid/forex-python)
 * [serverless-python-requirements](https://www.npmjs.com/package/serverless-python-requirements) by [@schep_](https://twitter.com/schep_)
 
